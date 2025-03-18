@@ -15,7 +15,7 @@ To fully understand and work with this project, you should have prior knowledge 
 ✅ NumPy & Pandas – For data processing
 ✅ Matplotlib & Seaborn – For data visualization
 ✅ Git & GitHub – For version control & collaboration
-✅ Jupyter Notebook – For an interactive coding environment
+✅ Jupyter Notebook – For an interactive coding environment 
 
 📈 Features & Workflow
 ✔ Generate Random Social Media Data – Create synthetic tweet data using Python

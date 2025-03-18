@@ -1,5 +1,7 @@
 📊 Social Media Data Analysis Project
+
 🔎 About this Project
+
 This project is designed for data analysis in social media marketing, where Python is used to extract, clean, analyze, and visualize tweet data across different categories such as Health, Family, Food, Travel, Music, and more.
 
 As a Data Analyst, the goal is to derive valuable insights that help clients improve their social media engagement by identifying trends, optimizing performance, and ensuring timely delivery of brand promotions.
